@@ -1,0 +1,5 @@
+# id,fullName,email,loyaltyLevel
+G001,Alice Martin,alice.martin@email.com,STANDARD
+G002,Bob Dupont,bob.dupont@email.com,SILVER
+G003,Claire Bernard,claire.bernard@email.com,GOLD
+G004,David Moreau,david.moreau@email.com,STANDARD
